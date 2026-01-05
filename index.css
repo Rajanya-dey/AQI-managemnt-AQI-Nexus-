@@ -1,0 +1,15 @@
+@import "tailwindcss";
+/* Custom scrollbar hiding */
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+.no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+/* Smooth transitions */
+body {
+    font-family: 'Inter', sans-serif;
+}
