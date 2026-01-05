@@ -27,12 +27,6 @@ const Icons = Object.keys(lucide.icons).reduce((acc, key) => {
     return acc;
 }, {});
 
-/* -----------------------------
-   EVERYTHING BELOW THIS LINE
-   IS COPIED 1:1 FROM YOUR CODE
-   NO EDITS. NO OPTIMIZATION.
------------------------------- */
-
 const {
     Sun, Moon, Wind, Activity, Shield, MapPin,
     AlertTriangle, Info, Thermometer, User, Heart,
@@ -53,10 +47,6 @@ const { useState, useEffect, useRef } = React;
 
 /* 
 --------------------------------
-PASTE YOUR FULL ORIGINAL LOGIC
-FROM pcmToWav() UNTIL
-root.render(<AirGuardApp />);
-
 UNCHANGED.
 --------------------------------
 */
@@ -988,3 +978,4 @@ UNCHANGED.
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<AirGuardApp />);
+
