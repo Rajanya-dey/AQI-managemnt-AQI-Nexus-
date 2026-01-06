@@ -45,11 +45,6 @@ const {
 
 const { useState, useEffect, useRef } = React;
 
-/* 
---------------------------------
-UNCHANGED.
---------------------------------
-*/
         // --- 2. Helper Functions ---
         
         // PCM to WAV Converter
@@ -666,7 +661,7 @@ UNCHANGED.
                             </div>
                         )}
 
-                        {/* 2. SAMSUNG GALAXY STYLE DASHBOARD (Immersive) */}
+                        {/* 2. INSPIRATION from SAMSUNG GALAXY STYLE DASHBOARD (Immersive) */}
                         {currentMode === 'user' && currentView === 'report' && aqiData && (
                             <div className="max-w-7xl mx-auto space-y-8 animate-in fade-in zoom-in-95 duration-700">
                                 
@@ -978,4 +973,5 @@ UNCHANGED.
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<AirGuardApp />);
+
 
