@@ -1,1 +1,3 @@
 # AQI-managemnt-AQI-Nexus
+
+AirGuard is an intelligent air-quality guidance platform designed for people living in highly polluted cities. Instead of showing complex numbers and charts, AirGuard focuses on one simple goal: tell people exactly what to do to stay safe. By understanding air conditions and personal needs, the platform provides clear, practical actions—when to go outside, what precautions to take, and how to plan daily activities. This project transforms air pollution data into meaningful guidance, helping individuals, families, and communities make safer decisions. AirGuard bridges the gap between information and action, turning awareness into real-world impact.
